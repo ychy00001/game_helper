@@ -1,0 +1,2 @@
+pyautogui==0.9.53
+pysocks==1.7.1
